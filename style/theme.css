@@ -147,7 +147,8 @@
             left:30%;
             width:20%;
             height:40%;
-            background: #336699;
+            background: #4FC1CB;
+            border-color: #4FC1CB;
       }
 
       #setweeklycolumn {
@@ -156,7 +157,9 @@
             left:50%;
             width:20%;
             height:40%;
-            background: #336699;
+            background:#26374a;
+             border-color: #4FC1CB;
+             color: #4FC1CB;
       }
 
       #setdailyspline {
@@ -165,7 +168,8 @@
             left:30%;
             width:20%;
             height:40%;
-            background: #336699;
+            background: #4FC1CB;
+            border-color: #4FC1CB;
       }
 
       #setweeklyspline {
@@ -174,5 +178,7 @@
             left:50%;
             width:20%;
             height:40%;
-            background: #336699;
+            background: #26374a;
+            border-color: #4FC1CB;
+            color: #4FC1CB;
       }

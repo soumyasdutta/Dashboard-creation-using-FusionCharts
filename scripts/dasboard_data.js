@@ -16,14 +16,18 @@
                 "numberPrefix": "$",                
                 "startingAngle": "190",
                 "decimals": "0",                
-                "defaultCenterLabel": "Total revenue: $60K",
-                //"centerLabel": "5201",                
+                "defaultCenterLabel": "5,201 Steps",
+                "centerLabel": "5,201 Steps", 
+                "centerLabelColor":"#00e6b8",  
+                "centerLabelFontSize":"48",             
                 "theme": "fint",
                 "doughnutRadius":"110",
                 "enableSmartLabels":"0",
                 "chartLeftMargin":"5",
                 "chartRightMargin":"5",
-                "chartBottomMargin":"40"
+                "chartBottomMargin":"40",
+                "canvasBorderAlpha":"80",
+                "showToolTip":"0"
                
             },
             "data": [{
@@ -49,7 +53,7 @@
                           {
                               "id": "dyn-label-bg",
                               "type": "text",
-                              "text" : "This is a text annotation.",
+                              "text" : "2,799 STEPS TO GO",
                               "color" : "#00e6b8",
                               "fontSize" : "14",
                               //"showBorder": "1",
@@ -105,7 +109,8 @@
                 "canvasBgAlpha":"0",
                 "canvasBgColor":"#0d0d0d",
                 "divLineAlpha":"80",
-                "divLineColor":"#0d0d0d"
+                "divLineColor":"#0d0d0d",
+                "canvasBorderAlpha":"80"
             },            
             "data": [
            
@@ -445,11 +450,15 @@
                 "numberPrefix": "$",                
                 "startingAngle": "190",
                 "decimals": "0",                
-                "defaultCenterLabel": "Total revenue: $60K",
-                "centerLabel": "5201",                
+                "defaultCenterLabel": "5,201 Steps",
+                "centerLabel": "5,201 Steps", 
+                "centerLabelColor" :"#45BDCE",
+                "centerLabelFontSize":"20",             
                 "theme": "fint",
                 "doughnutRadius":"54",
-                "enableSmartLabels":"0"
+                "enableSmartLabels":"0",
+                "canvasBorderAlpha":"80",
+                "showToolTip":"0"
                
             },
             "data": [{
@@ -501,14 +510,17 @@
                 "showValues": "0",
                 "bgColor": "#26374a",
                 "bgAlpha": "92",
-                "numberPrefix": "$",                
+                          
                 "startingAngle": "190",
                 "decimals": "0",                
-                "defaultCenterLabel": "Total revenue: $60K",
-                "centerLabel": "5201",                
-                "theme": "fint",
+                "defaultCenterLabel": "3.12 Km",
+                "centerLabel": "3.12 Km",                
+                "centerLabelColor":"#e68a00",
+                "centerLabelFontSize":"20",
                 "doughnutRadius":"54",
-                "enableSmartLabels":"0"
+                "enableSmartLabels":"0",
+                "canvasBorderAlpha":"80",
+                "showToolTip":"0"
                
             },
             "data": [{
@@ -560,14 +572,18 @@
                 "showValues": "0",
                 "bgColor": "#26374a",
                 "bgAlpha": "92",
-                "numberPrefix": "$",                
+                           
                 "startingAngle": "190",
                 "decimals": "0",                
-                "defaultCenterLabel": "Total revenue: $60K",
-                "centerLabel": "5201",                
-                "theme": "fint",
+                "defaultCenterLabel": "347 Kcl",
+                "centerLabel": "347 Kcl",                
+                "centerLabelColor":"#ff4d4d",
+                "centerLabelFontSize":"20",
                 "doughnutRadius":"54",
-                "enableSmartLabels":"0"
+                "enableSmartLabels":"0",
+                "canvasBorderAlpha":"80",
+                "showToolTip":"0"
+
                
             },
             "data": [{
@@ -618,15 +634,17 @@
                 "showLabels": "0",
                 "showValues": "0",
                 "bgColor": "#26374a",
-                "bgAlpha": "92",
-                "numberPrefix": "$",                
+                "bgAlpha": "92",        
                 "startingAngle": "190",
                 "decimals": "0",                
-                "defaultCenterLabel": "Total revenue: $60K",
-                "centerLabel": "5201",                
-                "theme": "fint",
+                "defaultCenterLabel": "1,500 Kcl",
+                "centerLabel": "1,500 Kcl",                
+               "centerLabelColor":"#00e600",
+               "centerLabelFontSize":"20",
+               "showToolTip":"0",
                 "doughnutRadius":"54",
-                "enableSmartLabels":"0"
+                "enableSmartLabels":"0",
+                "canvasBorderAlpha":"80"
                
             },
             "data": [{
@@ -681,11 +699,15 @@
                 "numberPrefix": "$",                
                 "startingAngle": "190",
                 "decimals": "0",                
-                "defaultCenterLabel": "Total revenue: $60K",
-                "centerLabel": "5201",                
+                "defaultCenterLabel": "65.5 KG",
+                "centerLabel": "65.5 KG",  
+                "centerLabelColor":"#1a1aff",
+                "centerLabelFontSize":"20",
+                "showToolTip":"0",              
                 "theme": "fint",
                 "doughnutRadius":"54",
-                "enableSmartLabels":"0"
+                "enableSmartLabels":"0",
+                "canvasBorderAlpha":"80"
                
             },
             "data": [{
@@ -738,14 +760,17 @@
                 "showValues": "0",
                 "bgColor": "#26374a",
                 "bgAlpha": "92",
-                "numberPrefix": "$",                
+                          
                 "startingAngle": "190",
                 "decimals": "0",                
-                "defaultCenterLabel": "Total revenue: $60K",
-                "centerLabel": "5201",                
-                "theme": "fint",
+                "defaultCenterLabel": "21.6 %",
+                "centerLabel": "21.6 %",                
+               "centerLabelColor":"#45BDCE",
+               "centerLabelFontSize":"20",
+               "showToolTip":"0",
                 "doughnutRadius":"54",
-                "enableSmartLabels":"0"
+                "enableSmartLabels":"0",
+                "canvasBorderAlpha":"80"
                
             },
             "data": [{
@@ -800,12 +825,16 @@
                 "numberPrefix": "$",                
                 "startingAngle": "190",
                 "decimals": "0",                
-                "defaultCenterLabel": "Total revenue: $60K",
-                "centerLabel": "5201",                
+                "defaultCenterLabel": "65.5 KG",
+                "centerLabel": "65.5 Kg",
+                "centerLabelColor":"#00e6b8",
+                "centerLabelFontSize":"48",
+                "showToolTip":"0",                
                 "theme": "fint",
                 "doughnutRadius":"110",
                 "enableSmartLabels":"0",
-                "chartBottomMargin":"40"
+                "chartBottomMargin":"40",
+                "canvasBorderAlpha":"80"
                
             },
             "data": [{
@@ -909,7 +938,8 @@
                 "canvasBgColor":"#0d0d0d",
                 "divLineAlpha":"80",
                 "divLineColor":"#0d0d0d",
-                "showAnchors":"0"
+                "showAnchors":"0",
+                "canvasBorderAlpha":"80"
             },
             "data": [
                 {
